@@ -86,6 +86,7 @@ button:hover {
 .poll {
   display: flex;
   flex-direction: column;
+  padding: 10px;
 }
 
 footer p {
