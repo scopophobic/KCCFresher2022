@@ -86,3 +86,16 @@ button:hover {
 .poll {
   display: flex;
 }
+
+footer p {
+  color: #edf0ed;
+  font-family: "Montserrat", sans-serif;
+}
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+footer a {
+  color: #d3b1eb;
+}
