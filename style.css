@@ -67,8 +67,9 @@ button:hover {
 .head h1 {
   font-family: "Montserrat", sans-serif;
   color: #edf0ed;
+  justify-content: center;
   font-size: 1cm;
-  padding: 0;
+  padding-top: 20px;
   margin: 0;
 }
 .head p {
