@@ -94,10 +94,12 @@ button:hover {
 footer p {
   color: #edf0ed;
   font-family: "Montserrat", sans-serif;
+  text-align: center;
 }
 footer {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  justify-items: center;
 }
 
 footer a {
